@@ -1,0 +1,6 @@
+keys             write 1000 read 1000          write 100,000        read 100,000        write 500,000        read 500,000
+ ScriptDict                 26             21               3518                  3070              41573                39167 
+ Assign/Eval                   85              31               8649                  3688              47337                19773
+ Hash Table               2171            683             317410                 80492               ???                  ???
+
+                                                                                           Times in mS
